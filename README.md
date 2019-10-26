@@ -1,5 +1,6 @@
 # GitDemo
 Hack4Impact Bootcamp Demo
+Cal Poly, SLO
 
-
-Elena Fowler!
+Elena Fowler! 
+Jillian Quinn
